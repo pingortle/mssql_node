@@ -1,0 +1,14 @@
+{
+  "name": "mssql_node",
+  "version": "0.0.0",
+  "description": "Test out connecting to an MSSQL DB in Node.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaleb Lape",
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^1.3.0"
+  }
+}
